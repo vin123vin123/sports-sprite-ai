@@ -4,11 +4,11 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'oaidalleapiprodscus.blob.core.windows.net', // Allows OpenAI DALL-E images
+        hostname: 'replicate.delivery',
       },
       {
         protocol: 'https',
-        hostname: 'replicate.delivery', // Allows Replicate AI images
+        hostname: 'pbxt.replicate.delivery',
       },
     ],
   },
