@@ -1,5 +1,5 @@
-### File 5: `app/page.tsx`
-```typescript
+
+
 'use client';
 
 import React, { useState } from 'react';
